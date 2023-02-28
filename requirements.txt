@@ -1,4 +1,4 @@
-pyrogram==1.0.0
+git+https://GitHub.com/subinps/pyrogram@inline-m
 tgcrypto
 psycopg2-binary
 sqlalchemy==1.3.23
